@@ -73,15 +73,90 @@ margin: 10px 0px;
     position: relative;
 left: 70px;
 }
-button{
+.new-button{
 background: rgb(0, 106, 80);
 border-radius: 8px;
     padding: 17px 34px 17px 34px;
     border: solid 1px rgb(0, 106, 80);
 }
 /* light pic section */
-.pillar{
-    width: 1000px;
-    height: 450px;
-    background:rgb(255, 255, 255);
+.heading-up{
+    margin-top: 80px;
+    margin-left: 20px;
 }
+.main-div{
+    width: 1272px;
+    height: 600px; 
+    background:white;
+}
+.three-div{
+    width: 1272px;
+    height: 100px;
+    display: flex;
+    
+}
+.easy-one {
+width: 300px;
+height: auto;
+box-sizing: border-box;
+margin: 20px ;
+padding: 20px;
+border-radius: 16px;
+background: rgba(84, 144, 245, 0.2);
+}
+.easy-two{
+    width: 300px;
+height: auto;
+box-sizing: border-box;
+margin: 20px ;
+padding: 20px;
+border-radius: 16px;
+background: rgb(198, 228, 214);
+}
+.last{
+    width: 300px;
+height: auto;
+box-sizing: border-box;
+margin: 20px ;
+padding: 20px;
+border-radius: 16px;
+background: rgb(247, 235, 207);
+}
+.learn{
+    border-radius: 8px;
+background: rgb(84, 144, 245);
+padding: 10px;
+border: 1px solid rgb(84, 144, 245);
+color: white;
+}
+.learn-one{
+    border-radius: 8px;
+background: rgb(9, 161, 92);
+padding: 10px; 
+color: white;
+border: 1px solid rgb(9, 161, 92) ;
+}
+.learn-two{
+    border-radius: 8px;
+background: rgb(255, 194, 57);
+padding: 10px;
+color: white;
+border: 1px solid rgb(255,194,57) ;
+}
+/* yunus */
+.down-part{
+width: 1150px;
+height: 250px;
+background-color: rgb(222, 209, 209);
+border-radius: 8px;
+margin-left: 20px;
+}
+.just-work{
+    margin-top: 300px;
+    margin-left: 20px;
+    padding: 13px;
+    background-image: url(quote-bg.png);
+    background-repeat:no-repeat;
+    left: px;
+}
+
