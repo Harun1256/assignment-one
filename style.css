@@ -73,3 +73,15 @@ margin: 10px 0px;
     position: relative;
 left: 70px;
 }
+button{
+background: rgb(0, 106, 80);
+border-radius: 8px;
+    padding: 17px 34px 17px 34px;
+    border: solid 1px rgb(0, 106, 80);
+}
+/* light pic section */
+.pillar{
+    width: 1000px;
+    height: 450px;
+    background:rgb(255, 255, 255);
+}
