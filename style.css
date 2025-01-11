@@ -1,0 +1,33 @@
+.nav{
+    background: rgb(245, 245, 245);
+    width: 1272px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+h1{
+    display: flex;
+flex-direction: row;
+color: rgb(14, 14, 14);
+gap: 10;
+padding: 24px 160px 24px 160px;
+}
+.left{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding:24px 160px 24px 160px;
+}
+ .left ul li{
+    list-style: none;
+gap: 48;
+padding: 12px 25px 12px 25px;
+border: 1px solid ;
+border-radius: 8px;
+}
+.left ul li a{
+    color: rgb(0, 106, 80);
+}
