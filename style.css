@@ -1,3 +1,4 @@
+/* navbar */
 .nav{
     background: rgb(245, 245, 245);
     width: 1272px;
@@ -6,6 +7,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    border-radius: 8px;
 }
 h1{
     display: flex;
@@ -30,4 +32,44 @@ border-radius: 8px;
 }
 .left ul li a{
     color: rgb(0, 106, 80);
+}
+/* flag section */
+.main{
+    position:relative;
+    width: 1000px;
+    height: 500px;
+    margin: 2px 130px 2px 130px;
+    
+}
+.main-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:flex-start;
+    padding: 80px 100px 80px 100px;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+}
+h6{
+    color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+}
+.writing{
+    width: 303px;
+    height: 120px;
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 30px;
+font-weight: 700;
+line-height: 40px;
+margin: 10px 0px;
+}
+.image{
+    position: relative;
+left: 70px;
 }
