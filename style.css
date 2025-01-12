@@ -145,11 +145,12 @@ border: 1px solid rgb(255,194,57) ;
 }
 /* yunus */
 .down-part{
-width: 1150px;
+width: 1272px;
 height: 250px;
 background-color: rgb(222, 209, 209);
-border-radius: 8px;
+border-radius: 10px;
 margin-left: 20px;
+margin-right: 2px;
 }
 .just-work{
     margin-top: 300px;
@@ -159,4 +160,68 @@ margin-left: 20px;
     background-repeat:no-repeat;
     left: px;
 }
+/* satelite */
+.satelite{
+    margin-left: 20px;
+    background-color: rgb(222, 209, 209);
+    width: 1250px;
+    height: 500px;
+    border-radius: 10px;
+    padding: 13px;
+    margin-top: 10px;
+}
+.moon{
+    width: 1250px;
+    height: 120px;
+    display: flex;
+}
+.sun{
+    width: 350px;
+    height: 300px;
+    border-radius: 15px;
+    margin-left: 20px;
+    
+}
+img{
+    border-radius: 8px;
+}
+.pragrap{
 
+border-radius: 8px;
+margin-left: 100px;
+
+}
+.what{
+margin-left: 20px;
+}
+.Read{
+    background:green;
+    padding: 10px;
+    color: white;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+/* satelite part two */
+.satelite-two{
+    display: flex;
+    margin-left: 20px;
+    background-color: rgb(222, 209, 209);
+    width: 1250px;
+    height: 350px;
+    border-radius: 10px;
+    padding: 13px;
+    margin-top: 10px;
+}
+.moon{
+    width: 1250px;
+    height: 120px;
+    display: flex;
+}
+.sun-two{
+    margin-left: 60px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.pragrap-two{
+    margin-left: 20px;
+}
