@@ -309,6 +309,19 @@ text-align: center;
     margin: 10px;
     padding: 8px;
 }
-.amount{
-    width: 300px;
+.other{
+    width: 500px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 10px;
+    color: rgba(14, 14, 14, 0.3);
+    background-color: white;
 }
+fieldset{
+    border: solid 1px white;
+}
+.down-button{
+margin-left: 650px;
+
+}
+
