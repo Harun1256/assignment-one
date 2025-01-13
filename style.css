@@ -8,7 +8,6 @@
     justify-content: space-between;
     align-items: center;
     border-radius: 8px;
-    display: block;
 }
 h1{
     display: flex;
@@ -36,7 +35,6 @@ border-radius: 8px;
 }
 /* flag section */
 .main{
-    position:relative;
     width: 1100px;
     height: 500px;
     margin-top: 10px;
